@@ -58,5 +58,11 @@
       "preco": 11.00,
       "imagem": "torta_chocolate.png",
       "descricao": "Fatia de torta cremosa com cobertura de chocolate meio amargo."
+    },
+    {
+      "nome": "Petit gateau",
+      "preco": 11.00,
+      "imagem": "petiti.png",
+      "descricao": "Bolo quente com recheio cremoso, acompanhado de sorvete."
     }
   ]
