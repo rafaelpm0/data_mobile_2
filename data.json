@@ -1,0 +1,62 @@
+[
+    {
+      "nome": "Feijoada",
+      "preco": 29.90,
+      "imagem": "feijoada.jpg",
+      "descricao": "Tradicional prato brasileiro com feijão preto e carnes."
+    },
+    {
+      "nome": "Lasanha à Bolonhesa",
+      "preco": 24.50,
+      "imagem": "lasanha.jpg",
+      "descricao": "Lasanha de carne moída com molho de tomate e queijo gratinado."
+    },
+    {
+      "nome": "Suco de Laranja",
+      "preco": 7.00,
+      "imagem": "suco_laranja.jpg",
+      "descricao": "Suco natural de laranja, refrescante e saudável."
+    },
+    {
+      "nome": "Pudim de Leite",
+      "preco": 9.50,
+      "imagem": "pudim.jpg",
+      "descricao": "Sobremesa clássica com leite condensado e calda de caramelo."
+    },
+    {
+      "nome": "Salada Caesar",
+      "preco": 18.00,
+      "imagem": "salada_caesar.jpg",
+      "descricao": "Alface americana, frango grelhado, croutons e molho Caesar."
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 32.00,
+      "imagem": "pizza_margherita.jpg",
+      "descricao": "Pizza com molho de tomate, mussarela e manjericão fresco."
+    },
+    {
+      "nome": "Hambúrguer Artesanal",
+      "preco": 22.90,
+      "imagem": "hamburguer.jpg",
+      "descricao": "Hambúrguer caseiro com queijo, bacon e molho especial."
+    },
+    {
+      "nome": "Espaguete ao Alho e Óleo",
+      "preco": 19.50,
+      "imagem": "espaguete.jpg",
+      "descricao": "Massa ao ponto com alho dourado e azeite de oliva."
+    },
+    {
+      "nome": "Refrigerante Lata",
+      "preco": 6.00,
+      "imagem": "refrigerante.jpg",
+      "descricao": "Refrigerante gelado de diversos sabores."
+    },
+    {
+      "nome": "Torta de Chocolate",
+      "preco": 11.00,
+      "imagem": "torta_chocolate.jpg",
+      "descricao": "Fatia de torta cremosa com cobertura de chocolate meio amargo."
+    }
+  ]
